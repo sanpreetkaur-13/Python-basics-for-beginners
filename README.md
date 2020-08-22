@@ -7,3 +7,5 @@ This repository contains datatypes and it's explaination which will help python 
 3. TUPLES
 4. STRINGS
 5. DICTIONARY
+
+It will also help in understanding functions and operations which can be performed on these datatypes.
