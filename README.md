@@ -5,4 +5,5 @@ This repository contains datatypes and it's explaination which will help python 
 1. NUMBERS
 2. LISTS
 3. TUPLES
-4. DICTIONARY
+4. STRINGS
+5. DICTIONARY
